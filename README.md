@@ -1,4 +1,4 @@
-# name
+# Name
 Anish Rajankar
 
 # Why I want to join Whitehats
